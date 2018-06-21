@@ -6110,7 +6110,7 @@ window._CCSettings = {
             670
         ]
     },
-    orientation: "",
+    orientation: "landscape",
     uuids: [
         "4aGsrZzohDNKpivyOlzMee",
         "efsQhPC1pJgLGHHpSVVctV",
